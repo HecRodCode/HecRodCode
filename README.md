@@ -9,6 +9,11 @@
 - ♟️ Chess Player - 1200 Rapid • 1100 Blitz • 1000 Bullet
 - 📩 Contact: hecrodcode@gmail.com
 
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,github,linux" />
+</p>
 
 > **“If it’s not from the heart, let nothing move you.”**
 
