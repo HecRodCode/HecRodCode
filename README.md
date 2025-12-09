@@ -1,7 +1,7 @@
 👋 Hi, I'm Rod
 --
 
-<img src="https://flagcdn.com/w20/co.png" width="25"/> From Medellín - Colombia
+<img src="https://flagcdn.com/w20/co.png" width="20"/> From Medellín - Colombia
 - 🧠 JavaScript / POO Python / Java / HTML-CSS /
 - 🎓 Studying development in [Riwi](https://riwi.io/)  
 - 🌱 Learning: JavaScript, Python, and modern CSS.  
