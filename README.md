@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Rod
+--
 
-<!--
-**HecRodCode/HecRodCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇨🇴 From Medellín/Colombia
+- 🧠 JavaScript / POO Python / Java / HTML-CSS /
+- 🎓 Studying development in [Riwi](https://riwi.io/)  
+- 🌱 Learning: JavaScript, Python, and modern CSS.  
+- 👯 Open to: collaborating on simple web projects.  
+- 🤔 Seeking help with: refining best coding practices.  
+- 💬 Ask me about: basic web development.  
+- 📫 Contact: hecrodcode@gmail.com  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I enjoy math and continuous learning.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
