@@ -14,7 +14,7 @@
 --
 ### 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rod_hr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rod__hr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecrodcode@gmail.com)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/hec_rio)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rod_Hr98)
