@@ -10,7 +10,6 @@
 
 
 > **“If it’s not from the heart, let nothing move you.”**
---
 
 ### 🌐 Connect with me
 
