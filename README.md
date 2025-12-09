@@ -11,24 +11,11 @@
 
 > **“If it’s not from the heart, let nothing move you.”**
 
+--
 ### 🌐 Connect with me
 
-<a href="https://www.instagram.com/TU_USUARIO" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="32" height="32" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:hecrodcode@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="32" height="32" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.chess.com/member/HecRodCode" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chessdotcom.svg" width="32" height="32" alt="Chess"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/TU_USUARIO" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="32" height="32" alt="Twitter/X"/>
-</a>
-&nbsp;
-<a href="https://discord.com/users/TU_ID" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" width="32" height="32" alt="Discord"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecrodcode@gmail.com)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/HecRodCode)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_ID)
