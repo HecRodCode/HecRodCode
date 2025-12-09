@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.gif" alt="Banner de mi portafolio" width="100%" />
-</p>
-
 👋 Hi, I'm Rod
 --
 
