@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner de mi portafolio" width="100%" />
+  <img src="banner.gif" alt="Banner de mi portafolio" width="100%" />
 </p>
 
 👋 Hi, I'm Rod
