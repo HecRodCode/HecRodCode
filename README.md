@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="#minecraft_.jpg" alt="Banner de mi portafolio" width="100%" />
+  <img src="banner.jpg" alt="Banner de mi portafolio" width="100%" />
 </p>
 
 👋 Hi, I'm Rod
