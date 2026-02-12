@@ -12,7 +12,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,html,css,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,vscode" />
 </p>
 
 > **“If it’s not from the heart, let nothing move you.”**
