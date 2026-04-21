@@ -3,8 +3,8 @@
 
 <img src="https://flagcdn.com/w20/co.png" width="20"/> From Medellín - Colombia
 - 💻 Junior Backend Developer  
-- 🧠 JavaScript • Python • HTML/CSS
-- 🎓 Studying development in [Riwi](https://riwi.io/)
+- 🧠 Node / JavaScript • Python • HTML/CSS 
+- 🎓 Studying Data Analysis in [Riwi](https://riwi.io/)
 - 🐱 I love cats (Choco & Crispy)  
 - ♟️ Chess Player - 1200 Rapid • 1100 Blitz • 1000 Bullet
 - 📩 Contact: hecrodcode@gmail.com
@@ -13,6 +13,11 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,vscode" />
+</p>
+
+### 📈 Currently Learning  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=aws,java,terraform" />
 </p>
 
 > **“If it’s not from the heart, let nothing move you.”**
