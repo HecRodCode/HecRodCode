@@ -4,10 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+%26+data+pipelines;NestJS+%7C+PostgreSQL+%7C+Python+%7C+Flutter;Clean+architecture%2C+typed+code%2C+real+systems)
 
-<br>
-
-![status](https://img.shields.io/badge/%E2%97%8F%20available-for%20opportunities-3fb950?style=flat-square&labelColor=0d2b1a)
-
 </div>
 
 <br>
