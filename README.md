@@ -1,42 +1,72 @@
 <div align="center">
 
-<h1>Hector Rodriguez</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Hector%20Rodriguez&fontSize=52&fontColor=f0f6fc&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Data%20Engineer%20%C2%B7%20Medell%C3%ADn%2C%20Colombia&descSize=14&descAlignY=60&descColor=8b949e)
 
-<p><code>Backend Developer · Data Engineer · Medellín, Colombia</code></p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+%26+data+pipelines;NestJS+%7C+PostgreSQL+%7C+Python+%7C+Flutter;Clean+architecture%2C+typed+code%2C+real+systems)
 
-![status](https://img.shields.io/badge/status-available%20for%20opportunities-3fb950?style=flat-square&labelColor=0d2b1a)
+<br>
+
+![status](https://img.shields.io/badge/%E2%97%8F%20available-for%20opportunities-3fb950?style=flat-square&labelColor=0d2b1a)
 
 </div>
 
----
+<br>
 
-19 y/o backend developer from Medellín, Colombia building scalable APIs and data pipelines.  
-Currently working professionally with **NestJS + PostgreSQL** while studying **Data Engineering** at [Riwi](https://riwi.io/).  
+19 y/o backend developer from Medellín, Colombia, building scalable APIs and data pipelines.
+Currently working professionally with **NestJS + PostgreSQL** while studying **Data Engineering** at [Riwi](https://riwi.io/).
 I care about clean architecture, typed code, and systems that actually make sense.
 
----
+<br>
 
-### Tech Stack
+## ⚙️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Backend & APIs**
+
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+
+**Data & Cloud**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-5E5086?style=for-the-badge&logo=linux&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
----
+**Mobile & Tools**
 
-### Contact
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-5E5086?style=for-the-badge&logo=linux&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/hecrodcode@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hecrodcode@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/HecRodCode)
+<br>
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=HecRodCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HecRodCode&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HecRodCode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+
+</div>
+
+<br>
+
+## 📬 Contact
+
+[![Gmail](https://img.shields.io/badge/hecrodcode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecrodcode@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+
+<br>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:0d1117&height=100&section=footer)
+
+</div>
 
 > *"If it's not from the heart, let nothing move you."*
