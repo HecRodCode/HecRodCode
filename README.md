@@ -6,13 +6,9 @@
 
 </div>
 
-<br>
-
 19 y/o backend developer from Medellín, Colombia, building scalable APIs and data pipelines.
 Currently working professionally with **NestJS + PostgreSQL** while studying **Data Engineering** at [Riwi](https://riwi.io/).
 I care about clean architecture, typed code, and systems that actually make sense.
-
-<br>
 
 ## ⚙️ Tech Stack
 
@@ -42,8 +38,6 @@ I care about clean architecture, typed code, and systems that actually make sens
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-5E5086?style=for-the-badge&logo=linux&logoColor=white)
 
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -52,14 +46,11 @@ I care about clean architecture, typed code, and systems that actually make sens
 
 </div>
 
-<br>
 
 ## 📬 Contact
 
 [![Gmail](https://img.shields.io/badge/hecrodcode@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hecrodcode@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-
-<br>
 
 <div align="center">
 
