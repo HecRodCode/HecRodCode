@@ -46,10 +46,6 @@ I care about clean architecture, typed code, and systems that actually make sens
 
 <div align="center">
 
-![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=HecRodCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HecRodCode&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=HecRodCode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
 
 </div>
