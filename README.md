@@ -1,25 +1,9 @@
-**Backend developer · Data engineer · Medellín, Colombia**
+# Hey, I'm Hector 👋
 
-Building scalable APIs and data pipelines. Student at [Riwi](https://riwi.io/).
-I care about clean architecture, typed code, and systems that actually make sense.
+19 y/o backend dev from Medellín, Colombia. I build APIs, data pipelines, and the occasional mobile app.
+Currently studying at [Riwi](https://riwi.io/) and obsessing over clean architecture and typed code.
 
----
-
-**Backend & APIs**
-
-[![Backend](https://skillicons.dev/icons?i=nestjs,ts,python,nodejs,prisma)](https://skillicons.dev)
-
-**Frontend & Mobile**
-
-[![Frontend](https://skillicons.dev/icons?i=angular,flutter,js)](https://skillicons.dev)
-
-**Data & Cloud**
-
-[![Data](https://skillicons.dev/icons?i=postgres,aws,docker)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,linux,vscode)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nestjs,ts,python,nodejs,prisma,angular,flutter,postgres,aws,docker,git,linux)](https://skillicons.dev)
 
 ---
 
