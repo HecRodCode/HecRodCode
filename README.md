@@ -2,8 +2,6 @@
 
 # HÉCTOR RÍOS
 
-**BACKEND · FLUTTER · CLOUD**
-
 </div>
 
 ---
@@ -63,23 +61,6 @@ Desarrollador de software enfocado en backends escalables, sistemas serverless y
 ---
 
 ### ANALYTICS
-
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HecRodCode&show_icons=true&theme=dark&hide_border=true" />
-
-</td>
-<td width="35%" valign="top">
-
-<br><br>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecRodCode&layout=compact&theme=dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=HecRodCode&theme=dark&hide_border=true" />
