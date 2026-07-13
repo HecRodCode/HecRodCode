@@ -1,99 +1,115 @@
 <div align="center">
 
-# HÉCTOR RÍOS
+<!-- BANNER -->
 
-**BACKEND · FLUTTER · CLOUD**
+<img src="assets/banner.png" width="100%">
 
 </div>
 
----
+<br>
 
-<table width="100%" cellpadding="15" cellspacing="0">
-<tr>
-<td width="60%" valign="top">
+## About
 
-### PERFIL PROFESIONAL
----
+Backend & Mobile developer from Medellín, Colombia.
 
-Desarrollador de software backend y mobile. Su trabajo se centra en construir sistemas backend escalables y aplicaciones móviles con Flutter, aplicando clean architecture y tipado estricto para entregar software mantenible y confiable a largo plazo.
+I enjoy designing scalable backend systems and building mobile applications with Flutter. I focus on clean architecture, strongly typed code and software that is easy to evolve over time.
 
-</td>
-<td width="40%" valign="top">
+<br>
 
-### ENFOQUE
----
-
-Combina desarrollo backend con aplicaciones móviles multiplataforma desde Medellín, Colombia. Su trabajo se apoya en tres pilares: arquitectura limpia, código fuertemente tipado y sistemas pensados para escalar sin fricción.
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%" cellpadding="15" cellspacing="0">
-<tr>
-<td width="100%" colspan="3">
-
-### STACK
----
-
-</td>
-</tr>
-<tr>
-<td width="20%" valign="top" align="center">
-
-**LENGUAJES**
-<br><br>
-<img src="https://skillicons.dev/icons?i=ts,dart,python&theme=dark&perline=3" />
-
-</td>
-<td width="30%" valign="top" align="center">
-
-**BACKEND & MOBILE**
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,flutter&theme=dark&perline=3" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**INFRA & DATOS**
-<br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,docker,git,linux&theme=dark&perline=6" />
-
-</td>
-</tr>
-</table>
-
----
-
-### ANALYTICS
+## Tech Stack
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=HecRodCode&theme=dark&hide_border=true&background=0D1117&stroke=8b949e&ring=c9d1d9&fire=ffffff&currStreakLabel=ffffff" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,dart,python&theme=dark" />
+
+<br><br>
+
+### Backend & Mobile
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,flutter,angular&theme=dark" />
+
+<br><br>
+
+### Cloud • Database • Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,git,linux&theme=dark" />
+
 </div>
 
----
+<br>
 
-<table width="100%" cellpadding="15" cellspacing="0">
+## Featured Projects
+
+<table>
 <tr>
-<td width="75%" valign="top">
 
-### CONTACTO
----
+<td width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://www.linkedin.com/in/h%C3%A9ctor-r%C3%ADos/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:TU_CORREO)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=devto&logoColor=c9d1d9)](https://tuportafolio.com)
+### 🚍 Rumbo
 
-</td>
-<td width="25%" valign="top">
+Mobile platform for school transportation management with real-time location, driver tracking and route monitoring.
 
-### DISPONIBILIDAD
----
-
-Abierto a nuevas oportunidades.
+**Flutter · NestJS · PostgreSQL**
 
 </td>
+
+<td width="50%">
+
+### 📦 StockWave
+
+Serverless inventory and order management system built following Clean Architecture principles.
+
+**Flutter · AWS · PostgreSQL**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🏦 Atlas.API
+
+Enterprise backend APIs focused on scalability, maintainability and strong typing.
+
+**NestJS · PostgreSQL · MongoDB**
+
+</td>
+
+<td>
+
+### 🌐 Portfolio
+
+Personal website where I showcase projects, experience and technical skills.
+
+</td>
+
 </tr>
 </table>
+
+<br>
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/TU-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:correo@correo.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://tuportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</div>
