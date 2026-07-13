@@ -1,115 +1,75 @@
 <div align="center">
 
-<!-- BANNER -->
+# Hey, i'm rod 👋
 
-<img src="assets/banner.png" width="100%">
+Software Developer from Medellín, Colombia 🇨🇴.
+
+Building scalable backends and cross-platform mobile applications.
 
 </div>
 
-<br>
+---
+
+<h2 align="center">Let's build something together.</h2>
+
+<p align="center">
+  <a href="https://tuportfolio.com">
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" height="42" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="52" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:TU_CORREO">
+    <img src="https://skillicons.dev/icons?i=gmail" height="52" />
+  </a>
+</p>
+
+
+<table width="100%">
+<tr>
+
+<td width="52%" valign="top">
 
 ## About
 
-Backend & Mobile developer from Medellín, Colombia.
+Backend and Mobile Developer from Medellín, Colombia.
 
-I enjoy designing scalable backend systems and building mobile applications with Flutter. I focus on clean architecture, strongly typed code and software that is easy to evolve over time.
+Currently studying **Software Development** at <a href="https://riwi.io/">Riwi</a>, where I strengthen both my technical skills and professional competencies through project-based learning, English immersion, and continuous development of communication, teamwork, and problem-solving skills.
 
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,dart,python&theme=dark" />
-
-<br><br>
-
-### Backend & Mobile
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,flutter,angular&theme=dark" />
-
-<br><br>
-
-### Cloud • Database • Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,git,linux&theme=dark" />
-
-</div>
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🚍 Rumbo
-
-Mobile platform for school transportation management with real-time location, driver tracking and route monitoring.
-
-**Flutter · NestJS · PostgreSQL**
+Passionate about building scalable backend systems and cross-platform mobile applications using **Clean Architecture**, **strong typing**, and modern cloud technologies.
 
 </td>
 
-<td width="50%">
+---
 
-### 📦 StockWave
+<td width="48%" valign="top">
 
-Serverless inventory and order management system built following Clean Architecture principles.
+## Beyond the Code
 
-**Flutter · AWS · PostgreSQL**
+When I'm not coding, you'll probably find me watching a great movie or rewatching **Better Call Saul**, spending time with my black cat 🐈‍⬛, or playing a game of chess.
 
-</td>
+I enjoy hobbies that challenge the way I think, whether it's understanding a complex software system or finding the best move on the board.
 
-</tr>
-
-<tr>
-
-<td>
-
-### 🏦 Atlas.API
-
-Enterprise backend APIs focused on scalability, maintainability and strong typing.
-
-**NestJS · PostgreSQL · MongoDB**
-
-</td>
-
-<td>
-
-### 🌐 Portfolio
-
-Personal website where I showcase projects, experience and technical skills.
+♟️ **Chess.com:** https://www.chess.com/member/hec_rio
 
 </td>
 
 </tr>
 </table>
 
-<br>
 
-## Connect
+---
+
+## Tech Stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU-LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:correo@correo.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://tuportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<img src="https://skillicons.dev/icons?i=ts,dart,python,nodejs,nestjs,flutter,angular,postgres,mongodb,aws,docker,git,linux&theme=dark"/>
 
 </div>
+
+<br>
