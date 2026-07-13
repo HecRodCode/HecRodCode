@@ -1,12 +1,10 @@
 <div align="center">
 
-▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆
 
 # HÉCTOR RÍOS
 
-**BACKEND** → **FLUTTER** → **CLOUD**
+**BACKEND** **FLUTTER** **CLOUD**
 
-▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆
 
 </div>
 
@@ -96,7 +94,6 @@ Desarrollador de software enfocado en backends escalables, sistemas serverless y
 </td>
 <td width="30%" align="center" valign="top">
 
-`●` `▲` `■` `◆`
 
 </td>
 </tr>
@@ -104,6 +101,5 @@ Desarrollador de software enfocado en backends escalables, sistemas serverless y
 
 <div align="center">
 
-▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆ ▲ ■ ● ◆
 
 </div>
