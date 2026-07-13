@@ -4,8 +4,6 @@
 
 Software Developer from Medellín, Colombia 🇨🇴.
 
-Building scalable backends and cross-platform mobile applications.
-
 </div>
 
 ---
