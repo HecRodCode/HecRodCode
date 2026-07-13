@@ -69,23 +69,6 @@ Combina desarrollo backend con aplicaciones móviles multiplataforma desde Medel
 
 ### ANALYTICS
 
-<table width="100%" cellpadding="10" cellspacing="0">
-<tr>
-<td width="65%" valign="top">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=HecRodCode&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&bg_color=0D1117" />
-
-</td>
-<td width="35%" valign="top">
-
-<br><br>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecRodCode&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0D1117" />
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=HecRodCode&theme=dark&hide_border=true&background=0D1117&stroke=8b949e&ring=c9d1d9&fire=ffffff&currStreakLabel=ffffff" />
 </div>
